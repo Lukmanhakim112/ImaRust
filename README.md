@@ -11,3 +11,7 @@ Cukup <i>compile</i> setiap nomor soal dengan cara:
 1. `make tp01` untuk tp01 (sesuaikan dengan nama file)
 2. `rustc TP01.rs` (jika tidak memiliki GnuMake)
 3. Jalankan file <i>executable</i>
+
+### Note
+
+Password untuk soal assesment 1: assessment-1-110921
