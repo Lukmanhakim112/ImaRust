@@ -1,5 +1,11 @@
 use std::io;
 
+/**
+ * Program ini, akan menghitung luas kerucut
+ *
+ * Jurnal 06 - No. 3 [IMA]
+ */
+
 const PI: f64 = 3.1415926535897932384626433832795;
 
 fn calculate_cone_area(radius: i32, height: i32) -> f64 {
